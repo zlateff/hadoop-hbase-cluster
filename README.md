@@ -4,8 +4,8 @@ Clone this project to create a 4 node [Apache Hadoop](http://hadoop.apache.org)-
 
 
 This is a modified and stripped down version of [vagrant-cascading-hadoop-cluster](https://github.com/Cascading/vagrant-cascading-hadoop-cluster)
+
 Hadoop-2.8.5 and HBase-2.2.5 are installed using 'openjdk-8-jdk' on 'ubuntu/bionic64' Vagrant boxes.
-The original README has been modified below to account only for what is installed.
 
 ## Deploying the cluster
 
